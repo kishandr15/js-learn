@@ -11,4 +11,6 @@ let firstName;          // undefined
 let temperature = null; // null (typeof null is object)
                         // object
 
-console.log(typeof temperature); // object
+console.log(typeof(temperature)); 
+
+//typeof is an operator, which returns the type of the variable.
